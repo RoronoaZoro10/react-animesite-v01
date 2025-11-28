@@ -1,0 +1,4 @@
+28 nov 2025 
+
+* JSON data file will not accept the ''(single quotes). it only allow ""(double quotes).
+    - for both key and values.

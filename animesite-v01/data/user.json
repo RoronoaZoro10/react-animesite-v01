@@ -1,0 +1,14 @@
+{
+    "user" : [
+        {
+            "username" : "Zoro",
+            "password" : "Zoro@",
+            "profilePicture" : "http://localhost:3000/images/zoro_profile_pic.jpeg"
+        },
+        {
+            "username" : "Luffy",
+            "password" : "Luffy@",
+            "profilePicture" : "http://localhost:3000/images/luffy_profile_pic.jpeg"
+        }
+    ]
+}

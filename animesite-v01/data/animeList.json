@@ -1,0 +1,62 @@
+{
+    "animeList" : [
+        {
+            "id" : "T",
+            "category" : "Trending",
+            "categoryImg" : "",
+            "collection" : [
+                {
+                    "animeId" : "T01",
+                    "animeName" : "",
+                    "description" : "",
+                    "animeImg" : ""
+                },
+                {
+                    "animeId" : "T02",
+                    "animeName" : "",
+                    "description" : "",
+                    "animeImg" : ""
+                }
+            ]
+        },
+        {
+            "id" : "A",
+            "category" : "Action",
+            "categoryImg" : "",
+            "collection" : [
+                {
+                    "animeId" : "A01",
+                    "animeName" : "",
+                    "description" : "",
+                    "animeImg" : ""
+                },
+                {
+                    "animeId" : "A02",
+                    "animeName" : "",
+                    "description" : "",
+                    "animeImg" : ""
+                }
+            ]
+        },
+        {
+            "id" : "C",
+            "category" : "Comedy",
+            "categoryImg" : "",
+            "collection" : [
+                {
+                    "animeId" : "C01",
+                    "animeName" : "",
+                    "description" : "",
+                    "animeImg" : ""
+                },
+                {
+                    "animeId" : "C02",
+                    "animeName" : "",
+                    "description" : "",
+                    "animeImg" : ""
+                }
+            ]
+        }
+    ] 
+}
+
